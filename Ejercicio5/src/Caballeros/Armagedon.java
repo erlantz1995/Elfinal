@@ -1,5 +1,9 @@
 package Caballeros;
-
+/**
+ * Es un java que invoca a cada jinete y se presenta con su nombre
+ * @author dw1a_alum18
+ *
+ */
 public class Armagedon {
 	static class Muerte{String nombre="Muerte";
 		public Muerte(){super();};
